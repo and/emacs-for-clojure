@@ -16,7 +16,7 @@ If you're new to emacs, check out
    [configuration zip file](https://github.com/flyingmachine/emacs-for-clojure/archive/book1.zip)
    and unzip it. Its contents should be a folder,
    `emacs-for-clojure-book1`. Run `mv path/to/emacs-for-clojure-book1
-   ~/.emacs.d`.
+   ~/.emacs.d`
 
 Then open Emacs. The first time you start, it will take a few minutes,
 because it needs to download and install around fifty packages. You
